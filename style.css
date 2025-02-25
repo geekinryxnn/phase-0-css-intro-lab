@@ -1,7 +1,7 @@
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */
-  background-color: lightblue;
+  background-color: #00b3e6;
 }
 
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
@@ -10,9 +10,9 @@ div {
   border: 1px solid black;
   width: 700px;
   margin: auto;
-  font-family: Helvetica;
+  font-family: Helvetica Neue;
   background: white;
-  padding: 20px;
+  padding: 30px;
 
 }
 
